@@ -7,7 +7,7 @@ provider "google" {
 
 
 resource "google_storage_bucket" "my-bucket" {
-  name                        = "my-basic-app-python-bucket"
+  name                        = "marcovpq-basic-app-python-bucke-000010101010t"
   location                    = "US"
   force_destroy               = true
   uniform_bucket_level_access = true
